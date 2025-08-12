@@ -23,5 +23,5 @@ To create a transparent, secure, and easy-to-use loyalty program that can be int
 `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c4e7533-e2c4-462e-8d77-13e4ce5b7bd7" />
 
 
-*(Replace with actual deployed address once deployed on Stacks blockchain)*
+contract address: ST23NNF5TW27D6XVE8MGD2015E0RZ0KPCJ18N13AN.loyalty-points
 
