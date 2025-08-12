@@ -20,6 +20,8 @@ To create a transparent, secure, and easy-to-use loyalty program that can be int
 - Multi-tier loyalty rewards.
 
 ## 5. Contract Address
-`SPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`  
+`<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c4e7533-e2c4-462e-8d77-13e4ce5b7bd7" />
+
+
 *(Replace with actual deployed address once deployed on Stacks blockchain)*
 
